@@ -1,0 +1,63 @@
+{"timestamp": "2026-10-07T17:10:04", "event_type": "SMARTPHONE_DETECTED", "confidence": 0.839, "details": {"duration_seconds": 1.7, "source": "camera"}}
+{"timestamp": "2026-10-07T17:23:30", "event_type": "SMARTPHONE_DETECTED", "confidence": 0.536, "details": {"duration_seconds": 1.64, "source": "camera"}}
+{"timestamp": "2026-10-07T17:24:52", "event_type": "FACE_NOT_DETECTED", "confidence": null, "details": {"duration_seconds": 2.41}}
+{"timestamp": "2026-10-07T17:25:03", "event_type": "FACE_NOT_DETECTED", "confidence": null, "details": {"duration_seconds": 2.41}}
+{"timestamp": "2026-10-07T17:25:15", "event_type": "MULTIPLE_FACES", "confidence": null, "details": {"face_count": 2, "duration_seconds": 1.11}}
+{"timestamp": "2026-10-07T17:25:23", "event_type": "FACE_NOT_DETECTED", "confidence": null, "details": {"duration_seconds": 2.41}}
+{"timestamp": "2026-10-07T17:28:16", "event_type": "SMARTPHONE_DETECTED", "confidence": 0.587, "details": {"duration_seconds": 1.97, "source": "camera"}}
+{"timestamp": "2026-10-07T17:28:19", "event_type": "SMARTPHONE_DETECTED", "confidence": 0.584, "details": {"duration_seconds": 1.98, "source": "camera"}}
+{"timestamp": "2026-10-07T17:28:24", "event_type": "FACE_NOT_DETECTED", "confidence": null, "details": {"duration_seconds": 2.38}}
+{"timestamp": "2026-10-07T17:28:34", "event_type": "SMARTPHONE_DETECTED", "confidence": 0.772, "details": {"duration_seconds": 1.55, "source": "camera"}}
+{"timestamp": "2026-10-07T17:32:32", "event_type": "SMARTPHONE_DETECTED", "confidence": 0.492, "details": {"duration_seconds": 1.95, "source": "camera"}}
+{"timestamp": "2026-10-07T17:36:20", "event_type": "SMARTPHONE_DETECTED", "confidence": 0.289, "details": {"duration_seconds": 1.97, "source": "camera"}}
+{"timestamp": "2026-10-07T17:36:34", "event_type": "SMARTPHONE_DETECTED", "confidence": 0.338, "details": {"duration_seconds": 1.55, "source": "camera"}}
+{"timestamp": "2026-10-07T17:39:50", "event_type": "SMARTPHONE_DETECTED", "confidence": 0.369, "details": {"duration_seconds": 1.53, "source": "camera"}}
+{"timestamp": "2026-10-07T17:41:05", "event_type": "SMARTPHONE_DETECTED", "confidence": 0.495, "details": {"duration_seconds": 1.98, "source": "camera"}}
+{"timestamp": "2026-10-07T17:41:10", "event_type": "SMARTPHONE_DETECTED", "confidence": 0.388, "details": {"duration_seconds": 1.52, "source": "camera"}}
+{"timestamp": "2026-10-07T17:44:02", "event_type": "SMARTPHONE_DETECTED", "confidence": 0.77, "details": {"duration_seconds": 1.67, "source": "camera"}}
+{"timestamp": "2026-10-07T17:48:02", "event_type": "SMARTPHONE_DETECTED", "confidence": 0.836, "details": {"duration_seconds": 1.98, "source": "camera"}}
+{"timestamp": "2026-10-07T17:48:02", "event_type": "KEYBOARD_EVENT", "confidence": null, "details": {"key": "WINDOWS"}}
+{"timestamp": "2026-10-07T18:01:15", "event_type": "FACE_NOT_DETECTED", "confidence": null, "details": {"duration_seconds": 2.41}}
+{"timestamp": "2026-10-07T18:01:25", "event_type": "GAZE_DEVIATION", "confidence": null, "details": {"direction": "UP", "duration_seconds": 2.39}}
+{"timestamp": "2026-10-07T18:01:39", "event_type": "KEYBOARD_EVENT", "confidence": null, "details": {"key": "WINDOWS"}}
+{"timestamp": "2026-10-07T18:03:38", "event_type": "GAZE_DEVIATION", "confidence": null, "details": {"direction": "UP", "duration_seconds": 2.24}}
+{"timestamp": "2026-10-07T18:03:44", "event_type": "KEYBOARD_EVENT", "confidence": null, "details": {"key": "WINDOWS"}}
+{"timestamp": "2026-10-07T18:03:50", "event_type": "KEYBOARD_EVENT", "confidence": null, "details": {"key": "WINDOWS"}}
+{"timestamp": "2026-10-07T18:06:31", "event_type": "FACE_NOT_DETECTED", "confidence": null, "details": {"duration_seconds": 2.12}}
+{"timestamp": "2026-10-07T18:06:36", "event_type": "KEYBOARD_EVENT", "confidence": null, "details": {"key": "WINDOWS"}}
+{"timestamp": "2026-10-07T18:06:46", "event_type": "FACE_NOT_DETECTED", "confidence": null, "details": {"duration_seconds": 2.0}}
+{"timestamp": "2026-10-07T18:06:53", "event_type": "KEYBOARD_EVENT", "confidence": null, "details": {"key": "WINDOWS"}}
+{"timestamp": "2026-10-07T18:08:38", "event_type": "KEYBOARD_EVENT", "confidence": null, "details": {"key": "WINDOWS"}}
+{"timestamp": "2026-10-07T18:08:40", "event_type": "KEYBOARD_EVENT", "confidence": null, "details": {"key": "CTRL+C"}}
+{"timestamp": "2026-10-07T18:08:41", "event_type": "KEYBOARD_EVENT", "confidence": null, "details": {"key": "CTRL+A"}}
+{"timestamp": "2026-10-07T18:08:43", "event_type": "KEYBOARD_EVENT", "confidence": null, "details": {"key": "CTRL+V"}}
+{"timestamp": "2026-10-07T18:08:45", "event_type": "KEYBOARD_EVENT", "confidence": null, "details": {"key": "ALT+TAB"}}
+{"timestamp": "2026-10-07T18:08:45", "event_type": "KEYBOARD_EVENT", "confidence": null, "details": {"key": "ALT+TAB"}}
+{"timestamp": "2026-10-07T18:08:49", "event_type": "KEYBOARD_EVENT", "confidence": null, "details": {"key": "WINDOWS"}}
+{"timestamp": "2026-10-07T18:11:07", "event_type": "KEYBOARD_EVENT", "confidence": null, "details": {"key": "WINDOWS"}}
+{"timestamp": "2026-10-07T18:13:31", "event_type": "HEAD_POSE_DEVIATION", "confidence": null, "details": {"direction": "UP", "yaw": -0.08, "pitch": -15.94, "roll": -6.97, "duration_seconds": 2.09}}
+{"timestamp": "2026-10-07T18:13:33", "event_type": "KEYBOARD_EVENT", "confidence": null, "details": {"key": "CTRL+C"}}
+{"timestamp": "2026-10-07T18:13:34", "event_type": "KEYBOARD_EVENT", "confidence": null, "details": {"key": "CTRL+V"}}
+{"timestamp": "2026-10-07T18:13:35", "event_type": "KEYBOARD_EVENT", "confidence": null, "details": {"key": "CTRL+A"}}
+{"timestamp": "2026-10-07T18:13:42", "event_type": "KEYBOARD_EVENT", "confidence": null, "details": {"key": "WINDOWS"}}
+{"timestamp": "2026-10-07T18:13:52", "event_type": "HEAD_POSE_DEVIATION", "confidence": null, "details": {"direction": "UP", "yaw": -0.24, "pitch": -15.65, "roll": -8.85, "duration_seconds": 2.34}}
+{"timestamp": "2026-10-07T18:13:59", "event_type": "KEYBOARD_EVENT", "confidence": null, "details": {"key": "WINDOWS"}}
+{"timestamp": "2026-10-07T18:14:07", "event_type": "KEYBOARD_EVENT", "confidence": null, "details": {"key": "WINDOWS"}}
+{"timestamp": "2026-10-07T18:54:57", "event_type": "KEYBOARD_EVENT", "confidence": null, "details": {"key": "WINDOWS"}}
+{"timestamp": "2026-10-07T18:55:03", "event_type": "KEYBOARD_EVENT", "confidence": null, "details": {"key": "CTRL+V"}}
+{"timestamp": "2026-10-07T18:55:48", "event_type": "GAZE_DEVIATION", "confidence": null, "details": {"direction": "UP", "duration_seconds": 2.2}}
+{"timestamp": "2026-10-07T18:55:56", "event_type": "GAZE_DEVIATION", "confidence": null, "details": {"direction": "UP", "duration_seconds": 4.31}}
+{"timestamp": "2026-10-07T19:11:23", "event_type": "KEYBOARD_EVENT", "confidence": null, "details": {"key": "WINDOWS"}}
+{"timestamp": "2026-10-07T19:11:28", "event_type": "KEYBOARD_EVENT", "confidence": null, "details": {"key": "CTRL+V"}}
+{"timestamp": "2026-10-07T19:11:41", "event_type": "GAZE_DEVIATION", "confidence": null, "details": {"direction": "UP", "duration_seconds": 2.12}}
+{"timestamp": "2026-10-07T19:11:43", "event_type": "HEAD_POSE_DEVIATION", "confidence": null, "details": {"direction": "DOWN", "yaw": -11.39, "pitch": 19.2, "roll": -10.06, "duration_seconds": 2.55}}
+{"timestamp": "2026-10-07T19:25:39", "event_type": "KEYBOARD_EVENT", "confidence": null, "details": {"key": "CTRL+C"}}
+{"timestamp": "2026-10-07T19:25:41", "event_type": "KEYBOARD_EVENT", "confidence": null, "details": {"key": "CTRL+V"}}
+{"timestamp": "2026-10-07T19:25:51", "event_type": "SMARTPHONE_DETECTED", "confidence": 0.399, "details": {"duration_seconds": 1.75, "source": "camera"}}
+{"timestamp": "2026-10-07T19:26:00", "event_type": "KEYBOARD_EVENT", "confidence": null, "details": {"key": "WINDOWS"}}
+{"timestamp": "2026-10-07T19:26:05", "event_type": "KEYBOARD_EVENT", "confidence": null, "details": {"key": "CTRL+V"}}
+{"timestamp": "2026-10-07T19:26:11", "event_type": "GAZE_DEVIATION", "confidence": null, "details": {"direction": "UP", "duration_seconds": 2.08}}
+{"timestamp": "2026-10-07T19:26:15", "event_type": "KEYBOARD_EVENT", "confidence": null, "details": {"key": "WINDOWS"}}
+{"timestamp": "2026-10-07T19:26:19", "event_type": "KEYBOARD_EVENT", "confidence": null, "details": {"key": "CTRL+V"}}
+{"timestamp": "2026-10-07T19:26:22", "event_type": "GAZE_DEVIATION", "confidence": null, "details": {"direction": "UP", "duration_seconds": 2.53}}
+{"timestamp": "2026-10-07T19:26:47", "event_type": "GAZE_DEVIATION", "confidence": null, "details": {"direction": "UP", "duration_seconds": 2.62}}

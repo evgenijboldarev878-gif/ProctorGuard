@@ -1,0 +1,16 @@
+{"timestamp": "2026-10-07T19:12:44", "event_type": "KEYBOARD_EVENT", "confidence": null, "details": {"key": "WINDOWS"}}
+{"timestamp": "2026-10-07T19:12:57", "event_type": "GAZE_DEVIATION", "confidence": null, "details": {"direction": "UP", "duration_seconds": 2.11}}
+{"timestamp": "2026-10-07T19:12:57", "event_type": "HEAD_POSE_DEVIATION", "confidence": null, "details": {"direction": "LEFT", "yaw": -29.92, "pitch": 13.72, "roll": 12.9, "duration_seconds": 2.11}}
+{"timestamp": "2026-10-07T19:13:06", "event_type": "KEYBOARD_EVENT", "confidence": null, "details": {"key": "CTRL+V"}}
+{"timestamp": "2026-10-07T19:13:08", "event_type": "KEYBOARD_EVENT", "confidence": null, "details": {"key": "WINDOWS"}}
+{"timestamp": "2026-10-07T19:13:08", "event_type": "HEAD_POSE_DEVIATION", "confidence": null, "details": {"direction": "DOWN", "yaw": -0.07, "pitch": 15.37, "roll": -4.95, "duration_seconds": 2.09}}
+{"timestamp": "2026-10-07T19:13:13", "event_type": "KEYBOARD_EVENT", "confidence": null, "details": {"key": "CTRL+V"}}
+{"timestamp": "2026-10-07T19:13:20", "event_type": "HEAD_POSE_DEVIATION", "confidence": null, "details": {"direction": "DOWN", "yaw": -3.46, "pitch": 19.19, "roll": -3.73, "duration_seconds": 2.17}}
+{"timestamp": "2026-10-07T19:13:27", "event_type": "FACE_NOT_DETECTED", "confidence": null, "details": {"duration_seconds": 2.59}}
+{"timestamp": "2026-10-07T19:13:35", "event_type": "FACE_NOT_DETECTED", "confidence": null, "details": {"duration_seconds": 2.08}}
+{"timestamp": "2026-10-07T19:28:07", "event_type": "KEYBOARD_EVENT", "confidence": null, "details": {"key": "CTRL+C"}}
+{"timestamp": "2026-10-07T19:28:34", "event_type": "GAZE_DEVIATION", "confidence": null, "details": {"direction": "UP", "duration_seconds": 19.67}}
+{"timestamp": "2026-10-07T19:29:18", "event_type": "GAZE_DEVIATION", "confidence": null, "details": {"direction": "UP", "duration_seconds": 2.34}}
+{"timestamp": "2026-10-07T19:29:18", "event_type": "HEAD_POSE_DEVIATION", "confidence": null, "details": {"direction": "UP", "yaw": 0.18, "pitch": -15.73, "roll": 12.91, "duration_seconds": 2.34}}
+{"timestamp": "2026-10-07T19:29:24", "event_type": "GAZE_DEVIATION", "confidence": null, "details": {"direction": "UP", "duration_seconds": 2.61}}
+{"timestamp": "2026-10-07T19:29:29", "event_type": "GAZE_DEVIATION", "confidence": null, "details": {"direction": "UP", "duration_seconds": 2.34}}
